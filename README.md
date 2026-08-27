@@ -10,7 +10,6 @@ Welcome to the **CraftRise Archive** repository. This project serves as a struct
 
 * `/accounts/` – Archived account configurations and references
 * `/methods/` – Documentation, guides, and technical breakdowns
-* `/tools-and-scripts/` – Helpful utilities and setup scripts
 * `/legacy/` – Outdated or archived historical material
 
 ---
